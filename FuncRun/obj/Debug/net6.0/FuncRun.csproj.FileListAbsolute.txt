@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\bin\Debug\net6.0\FuncRun.exe
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\bin\Debug\net6.0\FuncRun.deps.json
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\bin\Debug\net6.0\FuncRun.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\bin\Debug\net6.0\FuncRun.dll
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\bin\Debug\net6.0\FuncRun.pdb
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.dll
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\refint\FuncRun.dll
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.pdb
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\FuncRun.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\CSharp FuncRun\FuncRun\obj\Debug\net6.0\ref\FuncRun.dll
